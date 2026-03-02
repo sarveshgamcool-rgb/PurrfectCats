@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Admin Panel</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+<div class="card">
+<h2>Admin Panel</h2>
+<p>Total Cats Sold: 12</p>
+<p>Total Users: 25</p>
+<button onclick="alert('Add New Cat Feature Coming Soon')">Add Cat</button>
+</div>
+</div>
+
+</body>
+</html>

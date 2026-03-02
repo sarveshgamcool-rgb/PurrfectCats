@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Purrfect Cats</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+<h1>🐱 Purrfect Cats Premium Store</h1>
+<button onclick="location.href='login.html'">Login</button>
+<button onclick="location.href='signup.html'">Signup</button>
+</header>
+
+<div class="container">
+<div class="card">
+<h2>Persian Cat</h2>
+<p>₹15,000</p>
+<button onclick="location.href='payment.html'">Buy Now</button>
+</div>
+</div>
+
+</body>
+</html>
